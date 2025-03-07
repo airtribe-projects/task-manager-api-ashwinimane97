@@ -89,34 +89,6 @@
       "title": "Install jsonwebtoken",
       "description": "Install jsonwebtoken",
       "completed": false
-    },
-    {
-      "id": 16,
-      "title": "New Task",
-      "description": "New Task Description",
-      "completed": false,
-      "dateTime": "2025-03-07T07:46:15.447Z"
-    },
-    {
-      "id": 17,
-      "title": "New Task",
-      "description": "New Task Description",
-      "completed": false,
-      "dateTime": "2025-03-07T07:47:05.730Z"
-    },
-    {
-      "id": 18,
-      "title": "New Task",
-      "description": "New Task Description",
-      "completed": false,
-      "dateTime": "2025-03-07T07:48:24.301Z"
-    },
-    {
-      "id": 19,
-      "title": "New Task",
-      "description": "New Task Description",
-      "completed": false,
-      "dateTime": "2025-03-07T07:48:47.783Z"
     }
   ]
 }
